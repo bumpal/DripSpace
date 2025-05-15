@@ -128,7 +128,9 @@
     <img src="decor3.jpg" alt="Зураг 3">
     <h3> Air jordan1-12</h3>
     <p class="price">175000₮ <span 
-    <button onclick="alert('Таны данс: 123456789 - Хаан банк')">Захиалах</button>
+<button onclick="alert('Таны данс: 123456789 - Хаан банк')
+                               
+</div>">Захиалах</button> </div>
   </div>
 </div>
 
