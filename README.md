@@ -102,7 +102,7 @@
 <body>
   <header>
     <h1>DripSpace Store</h1>
-    <p>Yo sneaker fam, welcome to the heat zone! 👟 </p>
+    <p>Yo sneaker fam, welcome to the heat zone! 👟🔥🚀 </p>
   </header>  <nav>
     <a href="#home">Нүүр</a>
     <a href="#categories">Ангилал</a>
