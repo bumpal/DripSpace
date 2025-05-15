@@ -148,7 +148,7 @@
 https://chinii-site.netlify.app/?admin=drip2025
   if (isAdmin === adminPassword) {
     document.getElementById("admin-section").style.display = "block";
-  }
+  }<img src="zuragnii-url" alt="zuragiin ner" width="300">
 </script>
   </main>  <footer>
     © 2025 DripSpace Store - Бүх эрх хуулиар хамгаалагдсан.
