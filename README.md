@@ -123,16 +123,12 @@
         <p h3h3class="price">199900₮</p>
         <button onclick="alert('Таны данс: 123456789 - Хаан банк')">Захиалах</button>
       </div>
-    </div><div class="section-title">Хямдралтай</div>
 <div class="products">
   <div class="product">
     <img src="decor3.jpg" alt="Зураг 3">
     <h3> Air jordan1-12</h3>
     <p class="price">175000₮ <span 
-    <button onclick="alert('Таны данс: 123456789 - Хаан банк')
-                               
-                               
-">Захиалах</button>
+    <button onclick="alert('Таны данс: 123456789 - Хаан банк')">Захиалах</button>
   </div>
 </div>
 
