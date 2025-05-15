@@ -136,7 +136,18 @@
   <h2>Админ хэсэг</h2>
   <p>Шинэ бараа нэмэх, зураг солих, үнийг шинэчлэх, хямдрал тохируулах боломжтой.</p>
 </div>
+<script>
+  // Зөвхөн админд зориулсан нууц үг
+  const adminPassword = "drip2025"; // Энд өөртөө тохирсон хүчтэй нууц үг оруулаарай
 
+  // URL дээр ?admin= гэж орж ирсэн үед л шалгана
+  const urlParams = new URLSearchParams(window.location.search);
+  const isAdmin = urlParams.get('admin');
+https://chinii-site.netlify.app/?admin=drip2025
+  if (isAdmin === adminPassword) {
+    document.getElementById("admin-section").style.display = "block";
+  }
+</script>
   </main>  <footer>
     © 2025 DripSpace Store - Бүх эрх хуулиар хамгаалагдсан.
   </footer>
