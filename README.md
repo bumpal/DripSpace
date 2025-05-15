@@ -113,15 +113,13 @@
     <div class="products">
       <div class="product">
         <img src="decor1.jpg" alt="Зураг 1">
-        <h3>Cool wall clock 
-        Travis scott</h3>
+        <h3>Travis scott clock </h3>
         <p class="price">149900₮ <span class="old-price"></span></p>
         <button onclick="alert('Таны данс: 123456789 - Хаан банк')">Захиалах</button>
       </div>
       <div class="product">
         <img src="decor2.jpg" alt="Зураг 2">
-        <h3>Cool wall clock
-        SB dunk</h3>
+        <h3>SB dunk clock</h3>
         <p h3h3class="price">199900₮</p>
         <button onclick="alert('Таны данс: 123456789 - Хаан банк')">Захиалах</button>
       </div>
@@ -129,8 +127,7 @@
 <div class="products">
   <div class="product">
     <img src="decor3.jpg" alt="Зураг 3">
-    <h3>Cool wall clock 
-    Air jordan1-12</h3>
+    <h3> Air jordan1-12</h3>
     <p class="price">175000₮ <span 
     <button onclick="alert('Таны данс: 123456789 - Хаан банк')">Захиалах</button>
   </div>
